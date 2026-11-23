@@ -233,7 +233,7 @@ agno = [
 ]
 # AWS Strands Agents SDK integration
 strands = [
-    "strands-agents>=0.1.0",
+    "strands-agents>=1.48.0",
 ]
 # CrewAI: no extra on purpose. The integration only wraps CrewAI tools, so it
 # uses whatever CrewAI the user already has (`pip install headroom-ai crewai`).
